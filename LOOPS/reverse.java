@@ -1,4 +1,4 @@
-//program to print number in reverse with order of 2 from 20 to 2 using while loop
+//program to print number in reverse with difference of 2 from 20 to 2 using while loop
 
 public class reverse {
     public static void main(String[] args){
