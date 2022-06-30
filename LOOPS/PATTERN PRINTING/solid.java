@@ -1,8 +1,8 @@
 /** print the pattern of solid rectangle   
-     *****
-     *****
-     *****
-     *****                     **/
+         *****
+         *****
+         *****
+         *****                     **/
 
 import java.util.*;
 public class solid {
