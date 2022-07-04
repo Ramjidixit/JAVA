@@ -1,9 +1,9 @@
 /*print the following pattern
-1
-22
-333
-4444
-5555           */
+    1
+    22
+    333
+    4444
+    5555           */
 
 import java.util.*;
 public class shreya{
