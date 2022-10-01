@@ -12,9 +12,9 @@ public class obj{
 	}
 	public static void main(String args[]){
 		obj emp=new obj();
-		emp.record(2022,"shreya");
+		emp.record(2022,"shreya"); //not accessing object
 		emp=new obj();
-		emp.record(2021,"ramya");  
+		emp.record(2021,"ramya");  //accessing object beacuse the refernce has changed
 		emp.display();    
 		
 	}
