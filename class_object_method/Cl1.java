@@ -18,9 +18,11 @@ class Cl1{
 	public static void main(String[] args){
 		Person Raju=new Person(); //creating Person class object:Raju 
 		System.out.println("Hash code="+Raju.hashCode()); //finding hashcode
+		//initialize the instance variable using the reference
 		Raju.name="Rahim";
 		Raju.age=45;
-		Raju.talk();  //call the talk() method
+		// //call the talk() method
+		Raju.talk(); 
 	}		
 }
 //
